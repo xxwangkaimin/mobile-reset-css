@@ -1,11 +1,11 @@
-# mobileresetcss
+# mobileresetcss.css
 
 > mobile style reset
 
 **NPM**
 
 ```sh
-npm install --save mobileresetcss
+npm install --save mobileresetcss.css
 ```
 
 ## Browser support
