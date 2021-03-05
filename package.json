@@ -8,7 +8,7 @@
     "LICENSE.md",
     "mobileresetcss.css"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bundleDependencies": false,
   "deprecated": false,
   "description": "mobile style reset",
