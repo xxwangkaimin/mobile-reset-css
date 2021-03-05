@@ -1,0 +1,15 @@
+{
+  "name": "mobile-reset-css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necolas/normalize.css.git"
+  },
+  "version": "1.0.0",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "mobile style reset",
+  "main": "mobileResetCss.css",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
