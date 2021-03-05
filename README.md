@@ -8,6 +8,12 @@
 npm install --save mobileresetcss.css
 ```
 
+**Usage**
+
+```javascript
+import 'mobileresetcss.css/mobileresetcss.css'
+```
+
 ## Browser support
 
 * Chrome
