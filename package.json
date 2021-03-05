@@ -2,7 +2,7 @@
   "name": "mobile-reset-css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/necolas/normalize.css.git"
+    "url": "git+https://github.com/xxwangkaimin/mobile-reset-css.git"
   },
   "version": "1.0.0",
   "bundleDependencies": false,
