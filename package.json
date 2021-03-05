@@ -4,12 +4,17 @@
     "type": "git",
     "url": "git+https://github.com/xxwangkaimin/mobile-reset-css.git"
   },
+  "files": [
+    "LICENSE.md",
+    "mobileResetCss.css"
+  ],
   "version": "1.0.0",
   "bundleDependencies": false,
   "deprecated": false,
   "description": "mobile style reset",
   "main": "mobileResetCss.css",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "xxwangkaimin",
+  "license": "MIT",
+  "style": "mobileResetCss.css"
 }
