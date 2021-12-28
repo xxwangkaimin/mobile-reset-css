@@ -12,7 +12,7 @@
   "bundleDependencies": false,
   "deprecated": false,
   "description": "mobile style reset",
-  "main": "mobileresetcss.css",
+  "main": "mobileresetcss.min.css",
   "keywords": [],
   "author": "wangkaimin",
   "license": "MIT",

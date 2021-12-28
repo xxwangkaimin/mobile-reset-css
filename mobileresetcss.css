@@ -31,8 +31,7 @@ abbr[title] {
 }
 
 body, button, input, select, textarea {
-    font-size: 12px;
-    font-family: arial, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', '宋体', \5b8b\4f53, Tahoma, Arial, Helvetica, STHeiti
+    font-family: arial, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', '宋体', \5b8b\4f53, Tahoma, Arial, Helvetica, STHeiti, serif;
 }
 
 a, a:active, a:hover {
@@ -107,4 +106,18 @@ sub {
 
 sup {
     top: -0.5em;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clear:after, .clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
 }

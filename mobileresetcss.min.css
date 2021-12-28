@@ -1,0 +1,25 @@
+*{box-sizing:border-box}
+article,aside,blockquote,body,button,code,dd,details,dl,dt,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hr,input,legend,li,menu,nav,ol,p,pre,section,td,textarea,th,ul{margin:0;padding:0;border:0}
+html{line-height:1.15;-webkit-text-size-adjust:100%}
+hr{box-sizing:content-box;height:0;overflow:visible}
+pre{font-family:monospace,monospace;font-size:1em}
+abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
+body,button,input,select,textarea{font-family:arial,'Hiragino Sans GB','Microsoft Yahei','微软雅黑','宋体',\5b8b\4f53,Tahoma,Arial,Helvetica,STHeiti,serif}
+a,a:active,a:hover{color:unset;text-decoration:none}
+em{font-style:normal}
+b,strong{font-weight:bolder}
+li,ol,ul{list-style:none}
+img{border:0;vertical-align:middle}
+table{border-collapse:collapse;border-spacing:0}
+p{word-wrap:break-word}
+input,select,textarea{outline:0;background:unset;appearance:none;-webkit-appearance:none}
+button{user-select:none}
+img:not([src]),img[src=""]{opacity:0}
+code,kbd,samp{font-family:monospace,monospace;font-size:1em}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sub{bottom:-.25em}
+sup{top:-.5em}
+.fl{float:left}
+.fr{float:right}
+.clear:after,.clearfix:after{content:"";display:block;clear:both}
